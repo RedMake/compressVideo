@@ -1,6 +1,6 @@
 **Video Compression Tool**
 
-> This Python application is designed for compressing video files using the ffmpeg library and a Tkinter-based graphical interface. It allows users to reduce video file sizes with adjustable quality settings while maintaining good visual fidelity. The application can queue multiple videos for batch compression and offers the ability to cancel ongoing processes. It is ideal for handling large video files and making them more manageable for sharing or storage.
+> This Python code is designed for compressing video files using the ffmpeg library and a Tkinter-based graphical interface. It allows users to reduce video file sizes with adjustable quality settings while maintaining good visual fidelity. **[Not Implemented Yet]** <s>The application can queue multiple videos for batch compression and offers the ability to cancel ongoing processes.</s> It is ideal for handling large video files and making them more manageable for sharing or storage.
 
 **_Features:_**
 
@@ -14,7 +14,7 @@
 
 **_How to Use:_**
 
-1. Drag and drop video files into the window or select them manually.
+1. **[Not Implemented Yet]** <s>Drag and drop video files into the window or select them manually.</s>
 2. Choose the desired output location.
 3. Select a quality mode.
 4. Start the compression process.
