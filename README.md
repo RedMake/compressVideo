@@ -1,5 +1,8 @@
-**Video Compression Tool**
+**Note:**  
+> Prefer using a `.venv` in the current project instead of setting it globally, as it's probably not meant to be used system-wide.
 
+
+**Video Compression Tool:**
 > This Python code is designed for compressing video files using the ffmpeg library and a Tkinter-based graphical interface. It allows users to reduce video file sizes with adjustable quality settings while maintaining good visual fidelity. **[Not Implemented Yet]** <s>The application can queue multiple videos for batch compression and offers the ability to cancel ongoing processes.</s> It is ideal for handling large video files and making them more manageable for sharing or storage.
 
 **_Features:_**
