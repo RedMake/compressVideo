@@ -2,7 +2,7 @@ import time
 import tkinter as tk
 
 from tkinter import filedialog, ttk
-from TkinterDnD2 import DND_FILES, TkinterDnD
+from tkinterdnd2 import DND_FILES, TkinterDnD
 
 import threading
 import queue
